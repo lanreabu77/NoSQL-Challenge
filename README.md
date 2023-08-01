@@ -16,7 +16,7 @@ No front end interface provided for this app, all routes have been tested by Pos
 2. Mongoose
 3. Javascript
 4. Nodemon
-5. Postman
+5. Insomnia
 6. Express
 
 ## Your Task
@@ -199,3 +199,7 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 - `POST` to create a reaction stored in a single thought's `reactions` array field
 
 - `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
+
+**Walkthrough Video**
+
+https://watch.screencastify.com/v/ox0HQaJekJ525R9IbdU5
