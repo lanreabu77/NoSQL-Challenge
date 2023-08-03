@@ -202,4 +202,4 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 
 **Walkthrough Video**
 
-https://watch.screencastify.com/v/ox0HQaJekJ525R9IbdU5
+https://watch.screencastify.com/v/vRTtRg53hg2SHIIEAwAt
